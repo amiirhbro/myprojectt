@@ -1,0 +1,8 @@
+{
+  "name": "fast-relay",
+  "version": "1.1.0",
+  "type": "module",
+  "description": "Fast speed relay",
+  "private": true,
+  "license": "MIT"
+}
